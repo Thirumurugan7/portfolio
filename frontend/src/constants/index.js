@@ -1,2 +1,4 @@
-import images from "./images";
-export { images };
+//import images from "./images";
+
+export { default as images } from "./images";
+//export { images };
